@@ -21,13 +21,13 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 <br/>  
 
 
-## Rapidfire  
+## I am currently working on ...
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on thermomanagement of electric vehicles.  
+- 🔭 Thermomanagement of electric vehicles.  
   
 
-- 🌱 I’m currently learning Azure Machine Learning.  
+- 🌱 Challenging Azure Machine Learning.  
   
 
 - ❓ Ask me about anything related to technologies!  
