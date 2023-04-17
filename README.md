@@ -100,7 +100,7 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 
 <br/>  
 
-<div align="center">![Profile views counter](https://komarev.com/ghpvc/?username=mirsadraee&&style=flat-square) </div>
+<div align="center"><a![Profile views counter](https://komarev.com/ghpvc/?username=mirsadraee&&style=flat-square)</a></div>
   
 
 <br/>  
