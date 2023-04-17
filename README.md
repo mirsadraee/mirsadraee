@@ -106,7 +106,6 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 
 <br />
 
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <div align="center">
             <a href="https://www.buymeacoffee.com/mirsadraee" target="_blank" style="display: inline-block;">
@@ -117,5 +116,3 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
