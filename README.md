@@ -80,8 +80,9 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 <a href="https://www.matlab.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Azure" height="50" /></a> 
 <a href="https://visualstudio.microsoft.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VStudio" height="50" /></a>
 <a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" /></a> 
 </div>  
-          
+
 <br/>  
 
 
