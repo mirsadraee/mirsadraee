@@ -77,7 +77,9 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Azure" height="50" /></a>  
 <a href="https://bitbucket.org" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Azure" height="50" /></a>  
-<a href="https://www.matlab.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Azure" height="50" /></a>    
+<a href="https://www.matlab.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="Azure" height="50" /></a> 
+<a href="https://visualstudio.microsoft.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="VStudio" height="50" /></a>
+<a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a> 
 </div>  
           
 <br/>  
