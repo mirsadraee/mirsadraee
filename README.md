@@ -22,7 +22,6 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 
 
 ## I am currently working on ...
-<table><tr><td valign="top" width="50%">
 
 - 🔭 Thermomanagement of electric vehicles.  
   
@@ -32,15 +31,6 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 
 - ❓ Ask me about anything related to technologies!  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
