@@ -24,11 +24,9 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 ## I am currently working on ...
 
 - 🔭 Thermomanagement of electric vehicles.  
-  
 
-- 🌱 Challenging Azure Machine Learning.  
+- 🌱 Challenging Cloud DevOps using Microsoft Azure.  
   
-
 - ❓ Ask me about anything related to technologies!  
 
 
