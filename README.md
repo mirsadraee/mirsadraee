@@ -75,6 +75,10 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 <a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Jupyter" height="50" /></a> 
 <a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Jupyter" height="50" /></a> 
 <a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Jupyter" height="50" /></a> 
 
 </div>  
 
