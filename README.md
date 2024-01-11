@@ -72,6 +72,9 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 <a href="https://code.visualstudio.com" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a> 
 <a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="50" /></a> 
 <a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Jupyter" height="50" /></a> 
+<a href="https://jupyter.org" target="_blank"><img style="margin: 10px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" alt="Jupyter" height="50" /></a> 
 
 </div>  
 
