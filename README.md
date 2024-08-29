@@ -1,19 +1,16 @@
-## Hey 👋, I'm Alireza!  
-  
+## Hi 👋, I'm Alireza!  
 
 <a href="https://github.com/mirsadraee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/arms_deir" target="_blank">
+<a href="https://x.com/arms_deir" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/mirsadraee" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
   
-
-
-
 ### Glad to see you here!  
 Welcome to my GitHub page!
 
@@ -27,7 +24,7 @@ Welcome to my GitHub page!
 <br/>  
 
 
-## I am currently working on ...
+### I am currently working on ...
 
 - 🔭 Thermomanagement of electric vehicles Topics.  
 - 🌱 Chemcial Process Engineering Topics.
@@ -38,7 +35,7 @@ Welcome to my GitHub page!
 <br/>  
 
 
-## Languages and Tools  
+### Languages and Tools  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
@@ -91,7 +88,7 @@ Welcome to my GitHub page!
 
 <br/>  
 
-## Github Stats  
+### Github Stats  
 <table><tr><td valign="top" width="50%">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mirsadraee&show_icons=true&count_private=true&hide_border=true" align="center" />
@@ -102,7 +99,7 @@ Welcome to my GitHub page!
 </div>  
 </td></tr></table>  
 
-## Recent Blog Views  
+### Blog Views  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mirsadraee&&style=flat-square" align="center" />
 </div>  
