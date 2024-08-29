@@ -89,6 +89,12 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 <br/>  
 
 ## Github Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirsadraee"&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsadraee"&hide_border=true&layout=compact" align="center" />
 </div>  
