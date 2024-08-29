@@ -95,7 +95,7 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 </div>  
 </td><td valign="top" width="50%">
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsadraee"&hide_border=true&layout=compact" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirsadraee&hide_border=true" align="center" />
 </div>  
 </td></tr></table>  
 
