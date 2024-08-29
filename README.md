@@ -23,9 +23,11 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 
 ## I am currently working on ...
 
-- 🔭 Thermomanagement of electric vehicles.  
+- 🔭 Thermomanagement of electric vehicles Topics.  
 
-- 🌱 Challenging Cloud DevOps using Microsoft Azure.  
+- 🌱 Chemcial Process Engineering Topics.
+
+- ⚡ Data Science, AI and ML Topics.
   
 - ❓ Ask me about anything related to technologies!  
 
@@ -110,16 +112,4 @@ I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics 
 
 <br/>  
 
-
-<br />
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<div align="center">
-            <a href="https://www.buymeacoffee.com/mirsadraee" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
 
