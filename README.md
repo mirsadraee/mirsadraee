@@ -15,20 +15,23 @@
 
 
 ### Glad to see you here!  
-I’m an engineer with PhD in Mechanical Engineering focusing on thermodynamics and thermal engineering. I have several years of experience on modelling, simulation and data analysis.  
-  
+Welcome to my GitHub page!
 
+Research & Development Engineer with 10+ years of experience in the automotive industry
+Currently working at Robert Bosch GmbH, specializing in the development of Thermomanagement Control Systems for BEVs
+Proficient in developing complete thermal system models and coolant/refrigerant circuits models for BEVs
+Skilled in cross-domain modeling and simulation tools for coolant, refrigerant, and air systems
+Holds a PhD Degree in Mechanical Engineering from the University of Stuttgart, with expertise in Thermodynamics and Thermal Engineering.
+Proficient in DevOps, simulations, CI/CD pipelines, data analytics, Jenkins, data science.
+GitHub page showcases coding projects, open-source contributions, and valuable resources
 <br/>  
 
 
 ## I am currently working on ...
 
 - 🔭 Thermomanagement of electric vehicles Topics.  
-
 - 🌱 Chemcial Process Engineering Topics.
-
 - ⚡ Data Science, AI and ML Topics.
-  
 - ❓ Ask me about anything related to technologies!  
 
 
