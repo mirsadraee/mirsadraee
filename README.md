@@ -17,7 +17,7 @@ Welcome to my GitHub page! A short Intro:
 - Research & Development Engineer with 10+ years of experience in the automotive industry.
 - Currently specializing in the development of Thermomanagement Control Systems for BEVs.
 - Proficient in developing complete thermal system models and coolant/refrigerant circuits models for BEVs.
-- Skilled in development of cross-domain modeling and simulation tools e.g. for coolant, refrigerant, and air systems.
+- Skilled in development of cross-domain modeling and simulation tools e.g. MATLAB Simulink, GT-Suite, CarMaker, ModelConnect and COMSOL Multiphysics.
 - Proficient in Azure Cloud DevOps, Data Science and Data Analytics, CI/CD pipelines & ETL.
 - GitHub page showcases coding projects, open-source contributions, and valuable resources.
 <br/>  
